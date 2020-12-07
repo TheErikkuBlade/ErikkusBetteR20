@@ -787,10 +787,10 @@
     {
       "name": "Primal Knowledge",
       "source": "TCE",
-      "page": 1,
+      "page": 24,
       "className": "Barbarian",
       "classSource": "PHB",
-      "level": 2,
+      "level": 3,
       "entries": [
         "{@i 3rd-level barbarian optional feature}",
         "When you reach 3rd level and again at 10th level, you gain proficiency in one skill of your choice from the list of skills available to barbarians at 1st level."
@@ -858,19 +858,6 @@
       ]
     },
     {
-      "name": "Instinctive Pounce",
-      "source": "PHB",
-      "page": 46,
-      "srd": true,
-      "className": "Barbarian",
-      "classSource": "PHB",
-      "level": 7,
-      "entries": [
-        "{@i 7th-level barbarian optional feature}",
-        "As part of the bonus action you take to enter your rage, you can move up to half your speed."
-      ]
-    },
-    {
       "name": "Feral Instinct",
       "source": "TCE",
       "page": 46,
@@ -881,6 +868,18 @@
       "entries": [
         "By 7th level, your instincts are so honed that you have advantage on initiative rolls.",
         "Additionally, if you are surprised at the beginning of combat and aren't {@condition incapacitated}, you can act normally on your first turn, but only if you enter your rage before doing anything else on that turn."
+      ]
+    },
+    {
+      "name": "Instinctive Pounce",
+      "source": "PHB",
+      "page": 46,
+      "className": "Barbarian",
+      "classSource": "PHB",
+      "level": 7,
+      "entries": [
+        "{@i 7th-level barbarian optional feature}",
+        "As part of the bonus action you take to enter your rage, you can move up to half your speed."
       ]
     },
     {
