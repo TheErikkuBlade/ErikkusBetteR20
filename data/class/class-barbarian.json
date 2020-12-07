@@ -216,7 +216,7 @@
         "Rage|Barbarian||1",
         "Unarmored Defense|Barbarian||1",
         "Danger Sense|Barbarian||2",
-        "Primal Knowledge|Barbarian||2|TCE",
+        "Primal Knowledge|Barbarian||3|TCE",
         "Reckless Attack|Barbarian||2",
         {
           "classFeature": "Primal Path|Barbarian||3",
@@ -872,7 +872,7 @@
     },
     {
       "name": "Instinctive Pounce",
-      "source": "PHB",
+      "source": "TCE",
       "page": 46,
       "className": "Barbarian",
       "classSource": "PHB",
