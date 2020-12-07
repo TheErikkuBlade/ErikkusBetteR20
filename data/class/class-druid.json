@@ -390,13 +390,13 @@
         "Druidic|Druid||1",
         "Spellcasting|Druid||1",
         "Wild Shape|Druid||2",
-        "Wild Companion|Druid||2|",
+        "Wild Companion|Druid||2|TCE",
         {
           "classFeature": "Druid Circle|Druid||2",
           "gainSubclassFeature": true
         },
         "Wild Shape Improvement|Druid||4",
-        "Cantrip Versatility|Druid||4|",
+        "Cantrip Versatility|Druid||4|TCE",
         "Ability Score Improvement|Druid||4",
         {
           "classFeature": "Druid Circle feature|Druid||6",
