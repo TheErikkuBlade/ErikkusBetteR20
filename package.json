@@ -1,0 +1,16 @@
+{
+	"name": "betteR20",
+	"author": "5etools",
+	"version": "1.0.0",
+	"license": "MIT",
+	"description": "The script.",
+	"scripts": {
+		"test": "eslint js",
+		"build": "node node/build-scripts.js"
+	},
+	"repository": "5etools/5etoolsR20",
+	"dependencies": {},
+	"devDependencies": {
+		"eslint": "^5.6.0"
+	}
+}
