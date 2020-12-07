@@ -617,6 +617,7 @@
           "page": 27,
           "subclassFeatures": [
             "College of Creation|Bard||Creation|TCE|3",
+            "Performance of Creation|Bard||Creation|TCE|3",
             "Animating Performance|Bard||Creation|TCE|6",
             "Creative Crescendo|Bard||Creation|TCE|14"
           ]
@@ -1663,10 +1664,6 @@
         {
           "type": "refSubclassFeature",
           "subclassFeature": "Mote of Potential|Bard||Creation|TCE|3"
-        },
-        {
-          "type": "refSubclassFeature",
-          "subclassFeature": "Performance of Creation|Bard||Creation|TCE|3"
         }
       ]
     },
